@@ -1,4 +1,4 @@
-package com.TheTestingAcademy.endpoints;
+package com.thetestingacademy.utils;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

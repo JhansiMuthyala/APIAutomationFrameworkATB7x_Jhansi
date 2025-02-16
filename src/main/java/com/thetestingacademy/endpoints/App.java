@@ -1,4 +1,4 @@
-package com.TheTestingAcademy.endpoints;
+package com.thetestingacademy.endpoints;
 
 /**
  * Hello world!
